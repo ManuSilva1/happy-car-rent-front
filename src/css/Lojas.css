@@ -1,0 +1,13 @@
+/* Frota.css */
+
+.custom-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%; /* Ajusta la altura para llenar todo el espacio disponible */
+}
+
+.categoria-label {
+  align-self: flex-end;
+  margin-top: auto; /* Mueve la etiqueta al final del contenedor */
+}

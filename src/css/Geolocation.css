@@ -1,0 +1,13 @@
+/* Archivo: Ubicacao.css */
+
+/* Centra el contenido verticalmente y horizontalmente */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ajusta según tus necesidades, esto hará que el contenedor ocupe el 100% del alto de la ventana */
+  }
+  
+  /* Puedes agregar estilos adicionales según tus necesidades */
+  

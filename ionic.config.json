@@ -1,0 +1,7 @@
+{
+  "name": "Happy Car Rent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

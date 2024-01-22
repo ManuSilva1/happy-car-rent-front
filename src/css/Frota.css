@@ -1,0 +1,15 @@
+
+.thumbnail-container {
+  display: flex;
+  align-items: center;
+}
+
+.thumbnail-container img {
+  
+  height: auto /* Esto mantendrá la proporción original de la imagen */
+
+}
+.info-container {
+  flex-grow: 1;
+  text-align: end;
+}
